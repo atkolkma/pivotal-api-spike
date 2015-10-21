@@ -8,6 +8,7 @@ We should look at stealing good ideas/archetectire from existing pivotal api gem
 The two major ones are:
 - https://github.com/jsmestad/pivotal-tracker
 - https://github.com/dashofcode/tracker_api
+
 There's also this work in progress:
 - https://github.com/atljeremy/pivotal-tracker-api
 
